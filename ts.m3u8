@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.000000,
+#EXTINF:-1,
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://splus.smartres.net/
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
 http://splus.smartres.net//65787/54353/31542
-#EXT-X-ENDLIST

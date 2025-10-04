@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=360x480
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:FD:23:EB&stream=1858985&extension=m3u8

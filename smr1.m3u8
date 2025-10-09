@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="G1 480p", G1 480p
+https://cdnfest.com/G1-480p/video.m3u8
+#EXTINF:-1 tvg-name="G1 720p", G1 720p
+https://cdnfest.com/G1-720p/video.m3u8
+#EXTINF:-1 tvg-name="G1 1080p", G1 1080p
+https://cdnfest.com/G1-1080p/video.m3u8

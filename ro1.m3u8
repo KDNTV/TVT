@@ -2,6 +2,10 @@
 #EXT-X-STREAM-INF:BANDWIDTH=10,RESOLUTION=100x100
 https://id.remotv.xyz/?ch=b1
 #EXT-X-STREAM-INF:BANDWIDTH=20,RESOLUTION=100x50
-https://id.remotv.xyz/?ch=b1hcm
+https://id.remotv.xyz/?ch=b1
 #EXT-X-STREAM-INF:BANDWIDTH=30,RESOLUTION=100x99
-https://id.remotv.xyz/?ch=b1scm
+https://id.remotv.xyz/?ch=b1
+#EXT-X-STREAM-INF:BANDWIDTH=40,RESOLUTION=100x80
+https://id.remotv.xyz/?ch=b1
+#EXT-X-STREAM-INF:BANDWIDTH=50,RESOLUTION=100x70
+https://id.remotv.xyz/?ch=b1
